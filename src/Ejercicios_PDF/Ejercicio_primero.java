@@ -2,7 +2,8 @@ package Ejercicios_PDF;
 
 import java.util.Scanner;
 
-/*@author Kevin Felipe*/
+/*@author Kevin Felipe Pastrana Soto*/
+ /*@codigo_estudiantil 20232215370*/
  /*En una tienda de computadoras se planea ofrecer a los clientes un descuento que dependerá 
 del número de equipos que compre. Si las computadoras son menos de cinco se les dará un 
 10% de descuento sobre el total de la compra; si el número de computadoras es mayor o igual 

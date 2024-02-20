@@ -2,7 +2,8 @@ package Ejercicios_PDF;
 
 import java.util.Scanner;
 
-/*@author Kevin Felipe*/
+/*@author Kevin Felipe Pastrana Soto*/
+ /*@codigo_estudiantil 20232215370*/
  /*En una serviteca se ha establecido una promoción de las llantas marca “Pinchadas”, que consiste 
 en lo siguiente: 
 • Si se compran menos de cinco llantas el precio es de U$100 cada una, de U$75 si se 
