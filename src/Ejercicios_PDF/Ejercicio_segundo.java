@@ -22,7 +22,7 @@ public class Ejercicio_segundo {
 
         int precio = 0;
 
-        if (llantas <= 5) {
+        if (llantas < 5) {
             precio = 100;
         } else if (llantas >= 5 && llantas <= 10) {
             precio = 75;
