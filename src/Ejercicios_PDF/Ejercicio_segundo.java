@@ -13,13 +13,13 @@ que compra y la que tiene que pagar por el total de la compra.*/
 public class Ejercicio_segundo {
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in); // Crea un objeto Scanner
+        Scanner sc = new Scanner(System.in); 
         System.out.println("¿Cuantas llantas desea comprar?");
 
-        int llantas = sc.nextInt(); // Lee la entrada del usuario como un entero
-        sc.nextLine(); // Limpia el buffer de entrada
+        int llantas = sc.nextInt(); 
+        sc.nextLine(); 
 
-        System.out.println("Las llantas que llevas son: " + llantas); // Salida de la entrada del usuario
+        System.out.println("Las llantas que llevas son: " + llantas); 
 
         int precio = 0;
 

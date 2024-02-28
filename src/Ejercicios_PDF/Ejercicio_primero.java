@@ -12,13 +12,13 @@ a cinco pero menos de diez se le otorga un 20% de descuento; y si son 10 o más 
 public class Ejercicio_primero {
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);  // Crea un objeto Scanner
+        Scanner sc = new Scanner(System.in);  
         System.out.println("¿Cuantas computadoras quieres llevar?");
 
-        int computadoras = sc.nextInt();  // Lee la entrada del usuario como un entero
-        sc.nextLine();  // Limpia el buffer de entrada
+        int computadoras = sc.nextInt();  
+        sc.nextLine();  
 
-        System.out.println("Las computadoras que llevas son: " + computadoras);  // Salida de la entrada del usuario
+        System.out.println("Las computadoras que llevas son: " + computadoras);  
 
         int precio = 0;
         int descuento = 0;
